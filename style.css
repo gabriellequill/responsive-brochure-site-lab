@@ -1,0 +1,192 @@
+/* Tag selector to select the 'body' element */
+body {
+    background-color: #fff0d9;
+  }
+h3 { font-size: 2.5em; }
+p { font-size: 1em; }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width: 900px) {
+  body { font-size: 130%; }  
+}
+  
+  nav {
+    margin: auto;
+    padding: 35px;
+    width: 700px;
+    max-width: 100%;
+  }
+
+  #menu {
+    color: #e3bc9a;
+    font-family: 'Gill Sans';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 27px;
+    margin: 30px; 
+    padding-left: 20px;
+  }
+   
+  section {
+    background: #fff0d9;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: auto;
+    width: 700px;
+    max-width: 100%;
+    height: auto;
+}
+
+#box1 img {
+    float: left;
+    background: #bbf1f1;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+}
+#TFF {
+  float: left;
+  background: #bbf1f1;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 24px;
+  color: #009b9c;
+  width: 700px;
+  max-width: 100%;
+  padding-top: 10px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+  margin: auto;
+}
+
+#box2 img {
+    float: left;
+    background: #fbd2d7;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+#Arq {
+  float: left;
+  background: #fbd2d7;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 24px;
+  color: #d2232a;
+  width: 700px;
+  max-width: 100%;
+  padding-top: 10px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+  margin: auto;
+}
+
+#box3 img {
+  float: left;
+  background: #d0f0c0;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+#Liberated {
+  float: left;
+  background: #d0f0c0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 24px;
+  color: #598557;
+  width: 700px;
+  max-width: 100%;
+  padding-top: 10px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+  margin: auto;  
+}
+
+#box4 img {
+  float: left;
+  background: #d9c4ec;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+#Apricots {
+  float: left;
+  background: #d9c4ec;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 24px;
+  color: #472c4c;
+  width: 700px;
+  max-width: 100%;
+  padding-top: 10px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+  margin: auto;  
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    line-height: 0;
+  }
+
+#sub-header {
+  color: #e3bc9a;
+  font-family: 'Gill Sans';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 36px;
+}
+
+img {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#connect {
+  float: left;
+  margin-left: 375px;
+}
+
+#contact {
+  color: #e3bc9a;
+  font-family: 'Gill Sans';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 22px;
+  float: right;
+  padding: 40px;
+  display: inline-block;
+  margin-right: 275px;
+  margin-top: 25px;
+}
+  
